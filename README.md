@@ -424,7 +424,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Booking Status Breakdown: Display the distribution of completed, canceled, and pending bookings.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png"  />
+    <img src="https://github.com/Shrawanib/Ola-Data-Analysis/blob/main/Screenshot%202024-12-15%20195004.png?raw=true"  />
 </div>
 </ul>
 
