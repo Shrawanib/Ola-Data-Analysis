@@ -365,7 +365,7 @@ This Power BI project provides a comprehensive analysis of OLA's operational and
 
 ---
 
-![App Screenshot](https://github.com/PrajwalGpy/OLA-Data-Analyst-Project-Power-BI-And-SQL/blob/main/images/Screenshot%202024-12-15%20195004.png)
+![App Screenshot](https://github.com/Shrawanib/Ola-Data-Analysis/blob/main/Screenshot%202024-12-15%20195004.png?raw=true)
 
 ---
 
