@@ -464,7 +464,7 @@ To conduct a comprehensive analysis of OLA's ride data, focusing on key aspects 
   <li>Customer Ratings: Display the distribution of ratings given by customers.</li>  
   <br>
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src=""  />
+    <img src="https://github.com/Shrawanib/Ola-Data-Analysis/blob/main/Screenshot%202024-12-15%20201233.png?raw=true"  />
 </div>
 </ul>
 </ol>
